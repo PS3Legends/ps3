@@ -1,0 +1,12 @@
+body
+{
+    color:#ff0073    ;
+    background-color:gray;
+	background-image: url('DarkSpace.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+p {
+    border:double 3px black;
+}
